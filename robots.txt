@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /
+Disallow: /+drafts
+Disallow: /+drafts/
+Disallow: /def/+drafts
+Disallow: /def/+drafts/
+Disallow: /blog/+drafts
+Disallow: /blog/+drafts/
+Sitemap: https://djinni.ai/sitemap.xml
